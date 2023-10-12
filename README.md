@@ -1,7 +1,7 @@
 ## Curriculum Vitae Website
 Digital Resume website build using HTML5, CSS3, JavaScript and jQuery.
 
-<a href="https://jigarsable.netlify.app/" target="_blank">**Visit Now** 🚀</a>
+<a href="https://santhu.netlify.app/" target="_blank">**Visit Now** 🚀</a>
 
 
 ## 📌 Tech Stack
